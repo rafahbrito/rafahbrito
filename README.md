@@ -62,5 +62,5 @@
 ## 💬 Contact
 
 <div align="center" style="display: inline_block">
-  <a href="https://www.linkedin.com/in/rhbrito/" target="_blank"><img height="28rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/rhbrito/" target="blank"><img height="28rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
