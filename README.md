@@ -9,8 +9,6 @@
   
 ## 💻 Technologies
 
-<h3><strong>Front-End</strong></h3>
-
 <table>
   <tr>
     <th>Front-End</th>
