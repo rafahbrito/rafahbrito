@@ -20,11 +20,11 @@
   </tr>
   <tr>
     <td>
-      <img align="center" alt="Logo HTML" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Logo CSS" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Logo HTML" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+      <img align="center" alt="Logo CSS" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
       <img align="center" alt="Logo Ts" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <img align="center" alt="Logo React" height="36" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="Logo NextJS" height="36" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+      <img align="center" alt="Logo React" height="36" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+      <img align="center" alt="Logo NextJS" height="36" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
       <img align="center" alt="Logo Redux" height="31" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
       <br>
       <br>
@@ -32,8 +32,8 @@
       <img align="center" alt="Logo Mui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     </td>
     <td>
-      <img align="center" alt="Logo MySQL" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-      <img align="center" alt="Logo MongoDB" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+      <img align="center" alt="Logo MySQL" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+      <img align="center" alt="Logo MongoDB" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
       <img align="center" alt="Logo Nodejs" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img align="center" alt="Logo Express" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
       <img align="center" alt="Logo Ts" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -44,7 +44,7 @@
     <td>
       <img align="center" alt="Logo Jest" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
       <img align="center" alt="Logo RTL" height="34" width="34" src="https://testing-library.com/img/octopus-128x128.png" />
-      <img align="center" alt="Logo Mocha" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg">
+      <img align="center" alt="Logo Mocha" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg"/>
       <br>
       <br>
     </td>
