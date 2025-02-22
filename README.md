@@ -19,6 +19,7 @@
 
 <h3><strong>Back-End</strong></h3>
   <img align="center" alt="Logo C#" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Logo .NET" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Logo SQL Server" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
   <img align="center" alt="Logo MongoDB" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="Logo Nodejs" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
