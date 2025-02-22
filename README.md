@@ -19,10 +19,9 @@
   <img align="center" alt="Logo Mui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
 <h3><strong>Back-End</strong></h3>
-  <img align="center" alt="Logo MySQL" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Logo C#" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Logo MongoDB" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="Logo Nodejs" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Logo Express" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
   <img align="center" alt="Logo Ts" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Logo Sequelize" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-plain.svg" /> 
 
