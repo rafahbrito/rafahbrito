@@ -4,7 +4,6 @@
 
 <div align="left" style="display: inline_block">
   <li> 🧫 I am a biomedical in the process of changing careers to IT.</li>
-  <li> 👨‍💻 I learned Web Development at <a href="https://betrybe.com">Trybe</a></li>
   <li> 👨‍💻 I'm currently studying software engineering at <a href="https://www.unopar.com.br/">Unopar</a></li>
   
 ## 💻 Technologies
